@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, my name is Denis 👋
+
+Currently, I'm creating my profile on GitHub. 
 
 <!--
 **dar920910/dar920910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
