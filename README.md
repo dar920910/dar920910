@@ -32,7 +32,7 @@ For this summer, I've started to learn full-stack software development and read 
 
 I have start experience in commercial software engineering:
 - **2020/January - 2020/August**: *Manual QA (Intern)*: :link: [Imagine Communications - Magellan Control Panels](https://imaginecommunications.com/product/magellan-control-panels/)
-- **2020/August - 2022/December**: *QA Engineer*: :link: [Imagine Communications - Magellan Control Panels](https://imaginecommunications.com/product/nexio-amp/)
+- **2020/August - 2022/December**: *QA Engineer*: :link: [Imagine Communications - Nexio AMP (Nexio MOS Suite)](https://imaginecommunications.com/product/nexio-amp/)
 - **2021/October - 2022/June**: *C++ Developer (Intern)*: :link: [Imagine Communications - D-Series](https://imaginecommunications.com/product/d-series/)
 
 This experience was gained when I was an employee in the Russian partner IT organization: :link: [TECOM](https://tecomgroup.ru/)
