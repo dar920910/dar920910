@@ -1,100 +1,82 @@
 # Welcome to My GitHub Profile :wave:
 
-My name is **Denis Rezepov**, I'am a software engineer from Russia, N.Novgorod.
+:speech_balloon: *Hi, my name is **Denis Rezepov**, I am a software engineer from Russia, N.Novgorod.*
 
-From Summer 2023, I'm actively working on my own projects on GitHub.
+*As a developer, I wish to search for my way to creating high quality cross-platform software*.
+
+---
 
 ## :loudspeaker: What Should You Know About Me ?
 
-As a software engineer, I look for myself as a Developer, a Researcher and an Enthusiast.
-
-### My Professional Interests
+### About My Interests
 
 :books: I'm interesting software engineering widely:
 
 - Software development life cycle as a main professional area
 - Modern full-stack cross-platform software development
-- Programming languages, technologies and tools
+- Popular programming languages, technologies and tools
 
-:rocket: *I wish to grow as a cross-functional software engineer and believe that it's my way to high quality software* :muscle:
+### About My Skills
 
-### My Professional Education:
-
-I am a self-taught engineer, my interest in software development started in 2018 when I've been a game modmaker in the Russian Total War community as a hobbyist.
-
-For this summer, I've started to learn full-stack software development and read the following books:
-- :books: :link: https://github.com/markjprice/cs11dotnet7
-- :books: :link: https://github.com/markjprice/apps-services-net7
-- :books: :link: https://github.com/Apress/essential-typescript
-- :books: :link: https://github.com/Apress/esntl-angular-for-asp.net-core-mvc-3
-
-### My Professional Experience:
-
-I have start experience in commercial software engineering:
-- **2020/January - 2020/August**: *Manual QA (Intern)*: :link: [Imagine Communications - Magellan Control Panels](https://imaginecommunications.com/product/magellan-control-panels/)
-- **2020/August - 2022/December**: *QA Engineer*: :link: [Imagine Communications - Nexio AMP (Nexio MOS Suite)](https://imaginecommunications.com/product/nexio-amp/)
-- **2021/October - 2022/June**: *C++ Developer (Intern)*: :link: [Imagine Communications - D-Series](https://imaginecommunications.com/product/d-series/)
-
-This experience was gained when I was an employee in the Russian partner IT organization: :link: [TECOM](https://tecomgroup.ru/)
-
-### My Hard Skillset:
-
-Currently I am actively using **.NET** as the software platform in my projects and **C#** as my main programming language.
-
-Also, I'm familiar alternative tech-stacks and I'm going to extend my knowledges in future:
-
-- C/C++
-- JavaScript/TypeScript
-- Python
-
-### My Best Soft Skillset
+Currently I am actively using [**.NET**](https://dotnet.microsoft.com/en-us/) as the software platform in my projects and **C#** as my main programming language.
 
 :green_heart: I see myself as a purposeful, disciplined  and dedicated engineer who dreams to mastering his work very well :+1:
 
+---
 
-## :fire: What Are My Open-Source Projects in 2023+ ?
+## :octocat: What Are My Open-Source Projects ?
 
-### :muscle: Professional Career: Practical Challenges in Full-Stack Web Development Scope
-
-Since September 2023, I'm working on growing my practical software developer skillset via implementation of practical demo projects:
-
-:link: [My Workshop of Demo Projects 2023+](https://github.com/dar920910/Demo-Projects-Workshop)
-
-If you are an employer from some IT organization, you can estimate my current skills' level reviewing projects from the repository.
-
-### :microscope: Learning: Investigation of the Software Engineering World
-
-Since September 2023, I'm working on joining my helpful resources to one centralized repository to share my experience in future:
-
-:link: [Main() Entry Point to Software Engineering](https://github.com/dar920910/Software-Engineering-Main-Entry-Point)
-
-This repository joins my software engineering investigation experience from last several years of self-learning in IT.
+I'm creating three own open-source projects. These are **strategy level** projects because I plan to develop and support every project for future years.
 
 ### :hammer: Hobby: Initiatives in Game Development & Modding Scope
 
-Since, Winter 2023 I'm working on the OpenTWEMP project as my home hobbyist project for free time:
+The **Open Total War Engine Modding Platform** is my lead creative project to realize own ambitions in open-source world as my home hobby:
 
-:link: [OpenTWEMP Community Website - Open Turnbase Wargame Engine (Total War Engine) Modding Platform](https://dar920910.github.io/OpenTWEMP-Community-Website/)
+:link: [OpenTWEMP - Open Total War Engine Modding Platform](https://dar920910.github.io/OpenTWEMP-Community-Website/)
 
-The OpenTWEMP project is my main creative open-source project for future years!
+### :muscle: Career: Practical Challenges in Software Development Scope
+
+The **Demo Projects Workshop** is my portfolio repository joining independent projects inspired by practical challenges from different areas of software engineering:
+
+:link: [Demo Projects Workshop](https://github.com/dar920910/Demo-Projects-Workshop)
+
+### :microscope: Learning: Investigation of the Software Engineering World
+
+The **Main() Entry Point** project reflects my software engineering investigation experience and represents the one centralized repository with helpful IT resources:
+
+:link: [Main() Entry Point to Software Engineering](https://github.com/dar920910/Software-Engineering-Main-Entry-Point)
+
+---
+
+## What Are My Professional Experience ?
+
+### About My Professional Education
+
+I am a self-taught engineer who likes to read technical IT literature.
+
+The following list includes all IT books read by me for the last three months:
+
+- :books: :link: [Mark J. Price - "C# 11 and .NET 7 - Modern Cross-Platform Development Fundamentals" (2022, Packt)](https://github.com/markjprice/cs11dotnet7)
+- :books: :link: [Mark J. Price - "Apps and Services with .NET 7" (2022, Packt)](https://github.com/markjprice/apps-services-net7)
+- :books: :link: [Adam Freeman - "Essential TypeScript" (Apress, 2019)](https://github.com/Apress/essential-typescript)
+- :books: :link: [Adam Freeman - "Essential Angular for ASP.NET Core MVC 3" (Apress, 2019)](https://github.com/Apress/esntl-angular-for-asp.net-core-mvc-3)
+
+### About My Experience in Commercial Projects
+
+I have the following experience in commercial software engineering:
+
+- **2020/January - 2020/August**: *Manual QA (Intern)*: :link: [Imagine Communications - Magellan Control Panels](https://imaginecommunications.com/product/magellan-control-panels/)
+- **2020/August - 2022/December**: *QA Engineer*: :link: [Imagine Communications - Nexio AMP (Nexio MOS Suite)](https://imaginecommunications.com/product/nexio-amp/)
+- **2021/October - 2022/June**: *Software Developer (Intern)*: :link: [Imagine Communications - D-Series](https://imaginecommunications.com/product/d-series/)
+
+This experience was gained by me as an engineer of the Russian partner IT organization: :link: [TECOM](https://tecomgroup.ru/)
+
+---
 
 ## :speech_balloon: How Can You Contact With Me ?
 
+:email: E-mail: <me@dar920910.ru>
+
 :calling: Telegram: @dar920910
 
-:email: E-mail: me@dar920910.ru
-
-<!--
-**dar920910/dar920910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
