@@ -48,31 +48,6 @@ The **Main() Entry Point** project reflects my software engineering investigatio
 
 ---
 
-## :pushpin: What Are My Professional Experience ?
-
-### :books: About My Professional Education
-
-I am a self-taught engineer who likes to read technical IT literature.
-
-The following list includes all IT books read by me for the last three months:
-
-- :closed_book: [Mark J. Price - "C# 11 and .NET 7 - Modern Cross-Platform Development Fundamentals" (2022, Packt)](https://github.com/markjprice/cs11dotnet7)
-- :closed_book: [Mark J. Price - "Apps and Services with .NET 7" (2022, Packt)](https://github.com/markjprice/apps-services-net7)
-- :closed_book: [Adam Freeman - "Essential TypeScript" (Apress, 2019)](https://github.com/Apress/essential-typescript)
-- :closed_book: [Adam Freeman - "Essential Angular for ASP.NET Core MVC 3" (Apress, 2019)](https://github.com/Apress/esntl-angular-for-asp.net-core-mvc-3)
-
-### :notebook_with_decorative_cover: About My Experience in Commercial Projects
-
-I have the following experience in commercial software engineering:
-
-- :calendar: **2020/January - 2020/August**: *Manual QA (Intern)*:  :link: [Imagine Communications - Magellan Control Panels](https://imaginecommunications.com/product/magellan-control-panels/)
-- :calendar: **2020/August - 2022/December**: *QA Engineer*: :link: [Imagine Communications - Nexio AMP (Nexio MOS Suite)](https://imaginecommunications.com/product/nexio-amp/)
-- :calendar: **2021/October - 2022/June**: *Software Developer (Intern)*: :link: [Imagine Communications - D-Series](https://imaginecommunications.com/product/d-series/)
-
-This experience was gained by me as an engineer of the Russian partner IT organization: :link: [TECOM](https://tecomgroup.ru/)
-
----
-
 ## :speech_balloon: How Can You Contact With Me ?
 
 :email: E-mail: <me@dar920910.ru>
