@@ -38,7 +38,7 @@ The **OpenTWEMP** is my lead creative project to realize own ambitions in open-s
 
 The **Demo Projects Workshop** is my portfolio repository joining independent projects inspired by practical challenges from different areas of software engineering:
 
-:link: [My Demo Projects Workshop 2023](https://github.com/dar920910/Demo-Projects-Workshop)
+:link: [My Demo Projects Workshop](https://github.com/dar920910/Demo-Projects-Workshop)
 
 ### :microscope: Learning: Investigation of the Software Engineering World
 

@@ -1,0 +1,1 @@
+console.log("Welcome to Denis Rezepov Developer's Home Page!");
